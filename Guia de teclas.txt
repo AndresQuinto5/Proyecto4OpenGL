@@ -1,0 +1,28 @@
+correr el archivo RenderOpenGL.py
+
+Controles:
+
+W para mover en la pos Y+ 
+S para mover en la pos Y- 
+A para mover en la pos X- 
+D para mover en la pos X+ 
+
+SPACEBAR para acercar
+BACKSPACE para alejar
+
+UP para rotar en eje X+
+DOWN para rotar en eje X-
+LEFT para rotar en eje Z-
+RIGTH para rotar en eje Z+ 
+Q para rotar en eje Y-
+E para rotar en eje Y+
+
+ESC para salir
+
+Click IZQ para cambiar el angulo de la luz
+
+PARA CAMBIAR DE MODELO
+
+R para ratatoskr
+T para teodoro
+L para loba
